@@ -3,7 +3,7 @@ name = "mtl-trello-mcp"
 version = "0.1.0"
 description = "MCP server for Trello — boards, lists, cards, search, and project management"
 authors = [
-    {name = "MusicTech Lab"}
+    {name = "Mariusz Smenżyk"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"

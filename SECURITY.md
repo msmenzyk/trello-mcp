@@ -10,7 +10,7 @@
 
 **Please do not open a public issue for security vulnerabilities.**
 
-Instead, report vulnerabilities by emailing **opensource@musictechlab.io**
+Instead, report vulnerabilities by emailing **mariusz@mtl.dev**
 with the following information:
 
 - Description of the vulnerability

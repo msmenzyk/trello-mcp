@@ -5,4 +5,4 @@ This project follows the [Contributor Covenant v2.1](https://www.contributor-cov
 ## Reporting
 
 If you experience or witness unacceptable behavior, please contact
-**contact@musictechlab.io**. All reports will be handled confidentially.
+**mariusz@mtl.dev**. All reports will be handled confidentially.

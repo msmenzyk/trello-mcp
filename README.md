@@ -1,10 +1,9 @@
 # mtl-trello-mcp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://github.com/musictechlab/mtl-trello-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/musictechlab/mtl-trello-mcp/actions/workflows/ci.yml)
+[![CI](https://github.com/msmenzyk/mtl-trello-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/msmenzyk/mtl-trello-mcp/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Code style: Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://docs.astral.sh/ruff/)
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) server for [Trello](https://trello.com/) project management.
 
@@ -132,11 +131,11 @@ MIT - see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
-  <a href="https://musictechlab.io">Website</a>
+  Mariusz Smenżyk - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://mtl.dev">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <a href="https://linkedin.com/company/Mariusz Smenżyk">LinkedIn</a>
   <span> | </span>
-  <a href="https://musictechlab.io/contact">Let's talk</a><br>
-  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+  <a href="https://mtl.dev/contact">Let's talk</a><br>
+  Crafted by <a href="https://mtl.dev">mtl.dev</a>
 </div>
